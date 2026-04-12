@@ -36,7 +36,7 @@ An end-to-end data analytics project that covers the **complete data analyst wor
 superstore-sales-analysis/
 │
 ├── 📓 cleaning_and_eda.ipynb     ← Python: Data cleaning + EDA (48 cells)
-├── 🗄 superstore.sql             ← SQL: 14 business queries
+├── 🗄 superstore_queries.sql             ← SQL: 14 business queries
 ├── 📊 SALES_DASHBOARD.pbix       ← Power BI: Interactive dashboard
 ├── 📄 superstore_clean.csv       ← Cleaned dataset output
 ├── 🖼 dashboard_preview.png      ← Dashboard screenshot
