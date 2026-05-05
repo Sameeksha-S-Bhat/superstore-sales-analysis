@@ -196,3 +196,12 @@ CREATE DATABASE superstore_database;
 - ✅ Deriving Actionable Business Insights
 
 ---
+## 💼 Business Recommendations
+
+Based on the analysis, here are actionable insights for the business:
+
+1. **Furniture is loss-making** → Reduce heavy discounts on Tables and Bookcases
+2. **California drives 20% of revenue** → Increase marketing budget in West region
+3. **Q4 always peaks (Oct–Dec)** → Stock up inventory before October every year
+4. **Discounts above 20% hurt profit** → Cap discount policy at 20% maximum
+5. **Corporate segment has higher order value** → Target corporate clients for bulk deals
